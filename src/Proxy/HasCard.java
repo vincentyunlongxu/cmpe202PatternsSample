@@ -1,4 +1,5 @@
-package StatePattern;
+package Proxy;
+
 
 /**
  * Created by yunlongxu on 12/9/15.
